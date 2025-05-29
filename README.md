@@ -5,5 +5,7 @@
 #### Structure
 
 /Notepad
-
-├──TheSims
+├── Readme
+|
+├── /TheSims
+|  ├── Codes
