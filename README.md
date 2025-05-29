@@ -4,12 +4,7 @@
 
 #### Structure
 
-/Notepad
-
-├── Readme
-
-|
-
-├── /TheSims
-
-|  ├── Codes
+* /Notepad
+  * Readme
+  * /TheSims
+    * Codes
