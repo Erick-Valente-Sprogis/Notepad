@@ -5,6 +5,6 @@
 #### Structure
 
 * /Notepad
-  * Readme
+  * Readme.md
   * /TheSims
-    * Codes
+    * Codes.md
