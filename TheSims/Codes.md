@@ -1,54 +1,96 @@
 # The Sims 4 – Como Usar Cheats
 
-#### Mantenha pressionada as teclas CTRL+SHIFT+C simultaneamente
+#### Mantenha pressionada as teclas ```CTRL+SHIFT+C``` simultaneamente
 
 ## The Sims 4 – Todos os Códigos de Dinheiro
 
-### testingcheats {true/false}
--  Descrição: Habilita ou desabilita os cheats.
+### Habilita ou desabilita os cheats.
+- ```testingcheats {true/false}```
 
-### kaching
--  Descrição: Ganha 1.0000 Simoleons
+### Ganha 1.0000 Simoleons.
+- ```kaching```
 
-### rosebud
--  Descrição: Ganha 1.0000 Simoleons
+### Ganha 1.0000 Simoleons.
+- ```rosebud```
 
-### Money {número}
--  Descrição: Define o valor exato de Simoleons da família
+### Define o valor exato de Simoleons da família.
+- ```Money {número}```
+
+---
 
 ## The Sims 4 – Todos os Códigos de Relacionamentos
 
-### modifyrelationship {Primeiro Nome do Sim} {Sobrenome do Sim} {Nome do Sim Alvo} {Sobrenome do Sim Alvo} 100 LTR_Friendship_Main
--  Descrição: Maximiza a amizade de dois Sims. Exemplo: modifyrelationship Laura Caixão Vladmir Caixão 100 LTR_Friendship_Main
+### Maximiza a amizade de dois Sims. 
+##### Exemplo: modifyrelationship Laura Caixão Vladmir Caixão 100 LTR_Friendship_Main.
+- ```modifyrelationship {Primeiro Nome do Sim} {Sobrenome do Sim} {Nome do Sim Alvo} {Sobrenome do Sim Alvo} 100 LTR_Friendship_Main```
 
-### modifyrelationship {Primeiro Nome do Sim} {Sobrenome do Sim} {Nome do Sim Alvo} {Sobrenome do Sim Alvo} -100 Friendship_Main
--  Descrição: Deixa a amizade de dois Sims negativa. Exemplo: modifyrelationship Laura Caixão Vladmir Caixão -100 LTR_Friendship_Main
+### Deixa a amizade de dois Sims negativa. 
+##### Exemplo: modifyrelationship Laura Caixão Vladmir Caixão -100 LTR_Friendship_Main.
+- ```modifyrelationship {Primeiro Nome do Sim} {Sobrenome do Sim} {Nome do Sim Alvo} {Sobrenome do Sim Alvo} -100 Friendship_Main```
 
-### modifyrelationship {Primeiro Nome do Sim} {Sobrenome do Sim} {Nome do Sim Alvo} {Sobrenome do Sim Alvo} 100 LTR_Romance_Main
-- Descrição: Maximiza a paixão de dois Sims. Exemplo: modifyrelationship Laura Caixão Vladmir Caixão 100 
+### Maximiza a paixão de dois Sims.
+##### Exemplo: modifyrelationship Laura Caixão Vladmir Caixão 100.
+- ```modifyrelationship {Primeiro Nome do Sim} {Sobrenome do Sim} {Nome do Sim Alvo} {Sobrenome do Sim Alvo} 100 LTR_Romance_Main```
 
-### modifyrelationship {Primeiro Nome do Sim} {Sobrenome do Sim} {Nome do Sim Alvo} {Sobrenome do Sim Alvo} -100 Romance_Main
--  Descrição: Deixa a paixão de dois Sims negativa. Example: modifyrelationship Laura Caixão Vladmir Caixão -100 LTR_Romance_Main
+### Deixa a paixão de dois Sims negativa.
+##### Example: modifyrelationship Laura Caixão Vladmir Caixão -100 LTR_Romance_Main.
+- ```modifyrelationship {Primeiro Nome do Sim} {Sobrenome do Sim} {Nome do Sim Alvo} {Sobrenome do Sim Alvo} -100 Romance_Main```
 
-### modifyrelationship {Primeiro Nome do Sim} {Sobrenome do Sim} {Nome do Animal Alvo} {Sobrenome do Animal Alvo} 100 LTR_SimToPet_Friendship_Main
--  Descrição: Maximiza a amizade do Sim com um animal de estimação. Exemplo: modifyrelationship Laura Caixão Salsicha Caixão 100 LTR_SimToPet_Friendship_Main
+### Maximiza a amizade do Sim com um animal de estimação.
+##### Exemplo: modifyrelationship Laura Caixão Salsicha Caixão 100 LTR_SimToPet_Friendship_Main.
+- ```modifyrelationship {Primeiro Nome do Sim} {Sobrenome do Sim} {Nome do Animal Alvo} {Sobrenome do Animal Alvo} 100 LTR_SimToPet_Friendship_Main```
 
-### modifyrelationship {PlayedSimFirstName} {PlayedSimLastName} {TargetPetFirstName} {TargetPetLastName} -100 LTR_SimToPet_Friendship_Main
--  Descrição: Deixa a amizade do Sim com um animal de estimação negativa. Exemplo: modifyrelationship Laura Caixão Salsicha Caixão -100 LTR_SimToPet_Friendship_Main
+### Deixa a amizade do Sim com um animal de estimação negativa.
+##### Exemplo: modifyrelationship Laura Caixão Salsicha Caixão -100 LTR_SimToPet_Friendship_Main.
+- ```modifyrelationship {PlayedSimFirstName} {PlayedSimLastName} {TargetPetFirstName} {TargetPetLastName} -100 LTR_SimToPet_Friendship_Main```
 
-### relationship.introduce_sim_to_all_others
--  Descrição: Cria relacionamento com todos os Sims
+### Cria relacionamento com todos os Sims.
+- ```relationship.introduce_sim_to_all_others```
 
-### relationships.create_friends_for_sim
--  Descrição: Gera um novo Sim com 80% de amizade.
+### Gera um novo Sim com 80% de amizade.
+- ```relationships.create_friends_for_sim```
 
-### Shift + Clicar no Sim > Adicionar a Família
--  Descrição: Adiciona um Sim a família
+### Adiciona um Sim a família.
+- ```Shift + Clicar no Sim > Adicionar a Família```
+
+---
 
 ## The Sims 4 – Todos os Códigos para Pontos de Recompensas
 
-### sims.give_satisfaction_points {número}
--  Descrição: Adiciona um número determinado de Pontos de Recompensas para seu Sim
+### Adiciona um número determinado de Pontos de Recompensas para seu Sim 
+- ```sims.give_satisfaction_points {número}```
 
-### Aspirations.complete_current_milestone
--  Descrição: Conclui a aspiração do Sim e adiciona todos os Pontos de Recompensa da aspiração
+### Conclui a aspiração do Sim e adiciona todos os Pontos de Recompensa da aspiração
+- ```Aspirations.complete_current_milestone```
+
+---
+
+## The Sims 4 Vampiros – Todos os Códigos
+
+### Tornar um Sim Vampiro
+
+#### Transformação imediata.
+- ```traits.equip_trait trait_OccultVampire```
+
+#### Transição Natural (leva alguns dias).
+- ```stats.set_stat commodity_BecomingVampire 2160```
+
+### Tornar Vampiro em Sim.
+- ```traits.remove_trait trait_OccultVampire```
+
+### Níveis do Vampiro.
+
+#### Vampiro menor.
+- ```stats.set_stat rankedStatistic_Occult_VampireXP 202```
+
+#### Vampiro Primário.
+- ```stats.set_stat rankedStatistic_Occult_VampireXP 630```
+
+#### Vampiro Master.
+- ```stats.set_stat rankedStatistic_Occult_VampireXP 1058```
+
+#### Vampiro Mestre.
+- ```stats.set_stat rankedStatistic_Occult_VampireXP 1486```
+
+#### Vampiro Experiente.
+- ```stats.set_stat rankedStatistic_Occult_VampireXP 1593```
