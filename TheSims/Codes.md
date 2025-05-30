@@ -94,3 +94,30 @@
 
 #### Vampiro Experiente.
 - ```stats.set_stat rankedStatistic_Occult_VampireXP 1593```
+
+### Pontos de Poder.
+
+#### Maximiza o nível de Vampiro do Sim e dá a ele 2 pontos de poder.
+- ```stats.set_stat rankedStatistic_Occult_VampireXP 1593```
+
+### Traços dos Vampiros.
+
+#### Renegado da Humanidade.
+- ```traits.equip_trait RegainedHumanity```
+
+#### Eu sou o Mestre.
+- ```traits.equip_trait TheMaster```
+
+#### O Verdadeiro Mestre.
+- ```traits.equip_trait TrueMaster```
+
+### Morte pelo Sol.
+- ```stats.set_stat commodity_Vampire_SunExposure -100```
+
+### Energia Vampírica
+
+#### Energia Vampírica no Máximo.
+- ```stats.set_stat commodity_Motive_Visible_Vampire_Power 100```
+
+#### Energia Vampírica no Mínimo.
+- ```stats.set_stat commodity_Motive_Visible_Vampire_Power -100```
