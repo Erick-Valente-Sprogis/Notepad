@@ -7,6 +7,9 @@
 ### Habilita ou desabilita os cheats.
 - ```testingcheats {true/false}```
 
+### Permite editar um Sim durante o jogo.
+- ```cas.fulleditmode```
+
 ### Ganha 1.0000 Simoleons.
 - ```kaching```
 
