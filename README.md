@@ -5,6 +5,9 @@
 #### Structure
 
 - /Notepad
-  - Readme.md
+  - Replit-Flask (homeworks)
+  - Replit-Python (homeworks)
+  - Replit-py_primeiroPrograma (homeworks)
   - /TheSims
     - Codes.md
+  - Readme.md
