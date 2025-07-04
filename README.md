@@ -5,7 +5,7 @@
 #### Structure
 
 - /Notepad
-  - Mincraft
+  - Minecraft
     - Mods
     - Resource-Packs
     - Shaders
