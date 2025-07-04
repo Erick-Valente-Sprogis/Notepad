@@ -1,67 +1,62 @@
-# Mods para Minecraft 1.12.2 (Forge)
+# Mods para Minecraft (Forge)
 
-Esta lista contém links de download para os mods compatíveis com Minecraft 1.12.2, preferencialmente do CurseForge. Lembre-se de sempre verificar a página do mod para a versão exata e requisitos.
+Esta lista contém links de download para os mods compatíveis com Minecraft, preferencialmente do CurseForge. Lembre-se de sempre verificar a página do mod para a versão exata e requisitos.
 
 ## Mods com Links de Download
 
-- [**Additional_Structures:**](https://www.curseforge.com/minecraft/mc-mods/additionalstructures/files?version=1.12.2)
+- [**Additional_Structures:**](https://www.curseforge.com/minecraft/mc-mods/additional-structures)
 - [**AppleSkin:**](https://www.curseforge.com/minecraft/mc-mods/apprmdir)
 - [**Armor_Underwear(Armor_Under):**](https://www.curseforge.com/minecraft/mc-mods/armor-underwear-mod)
 - [**BadMobs:**](https://www.curseforge.com/minecraft/mc-mods/bad-mobs)
-- [**Balm:**](https://www.curseforge.com/minecraft/mc-mods/balm/files?version=1.12.2)
-- [**Biomes_O'Plenty:**](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files?version=1.12.20)
-- [**Bookshelf:**](https://www.curseforge.com/minecraft/mc-mods/bookshelf/files?version=1.12.2)
-- [**Carrots_Lib:**](https://www.curseforge.com/minecraft/mc-mods/carrots-lib/files?version=1.12.2)
-- [**Carry_On:**](https://www.curseforge.com/minecraft/mc-mods/carry-on/files?version=1.12.2)
-- [**Cloth_Config_v4_API:**](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files?version=1.12.2)
-- [**Collective:**](https://www.curseforge.com/minecraft/mc-mods/collective/files?version=1.12.2)
-- [**CoroUtil:**](https://www.curseforge.com/minecraft/mc-mods/coroutil/files?version=1.12.2)
-- [**CreativeCore:**](https://www.curseforge.com/minecraft/mc-mods/creativecore/files?version=1.12.2)
-- [**Dynamic_Trees:**](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees/files?version=1.12.2)
-- [**Enchantment_Descriptions_Java:**](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/files?version=1.12.2)
-- [**Enhanced_Visuals:**](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals/files?version=1.12.2)
-- [**Forge(Loader):**](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) _(Recomendo a versão "Recommended")_
-- [**GUI_Clock:**](https://www.curseforge.com/minecraft/mc-mods/gui-clock/files?version=1.12.2)
-- [**GUI_Compass:**](https://www.curseforge.com/minecraft/mc-mods/gui-compass/files?version=1.12.2)
-- [**Inventory_Profiles_Next:**](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next/files?version=1.12.2)
-- [**Jade\_(Waila):**](https://www.curseforge.com/minecraft/mc-mods/hwyla/files?version=1.12.2)
-- [**Just_Enough_Items(JEI):**](https://www.curseforge.com/minecraft/mc-mods/jei/files?version=1.12.2)
-- [**Kotlin_For_Forge:**](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge/files?version=1.12.2)
-- [**LostCities:**](https://www.curseforge.com/minecraft/mc-mods/lost-cities/files?version=1.12.2)
-- [**Mob_Sunscreen:**](https://www.curseforge.com/minecraft/mc-mods/mob-sunscreen/files?version=1.12.2)
-- [**OreExcavation:**](https://www.curseforge.com/minecraft/mc-mods/ore-excavation/files?version=1.12.2)
-- [**Philip's_Ruins:**](https://www.curseforge.com/minecraft/mc-mods/philips-ruins/files?version=1.12.2)
-- [**Sophisticated_Backpacks:**](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files?version=1.12.2)
-- [**Sophisticated_Core:**](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/files?version=1.12.2)
-- [**Sound_Physics_Remastered:**](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files?version=1.12.2)
-- [**Spartan_Shields:**](https://www.curseforge.com/minecraft/mc-mods/spartan-shields/files?version=1.12.2)
-- [**Spartan_Weaponry:**](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry/files?version=1.12.2)
-- [**The_Hordes:**](https://www.curseforge.com/minecraft/mc-mods/the-hordes/files?version=1.12.2)
-- [**Waystones:**](https://www.curseforge.com/minecraft/mc-mods/waystones/files?version=1.12.2)
-- [**YUNG's_API:**](https://www.curseforge.com/minecraft/mc-mods/yungs-api/files?version=1.12.2)
-- [**YUNG's_Better_Desert_Temples:**](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples/files?version=1.12.2)
-- [**YUNG's_Better_Dungeons:**](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons/files?version=1.12.2)
-- [**YUNG's_Better_Mineshafts:**](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts/files?version=1.12.2)
-- [**YUNG's_Better_Strongholds:**](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds/files?version=1.12.2)
-- [**YUNG's_Bridges:**](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges/files?version=1.12.2)
-- [**YUNG's_Extras:**](https://www.curseforge.com/minecraft/mc-mods/yungs-extras/files?version=1.12.2)
-- [**Zombie_Awareness:**](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness/files?version=1.12.2)
-
-## Mods Não Encontrados para 1.12.2
-
-Alguns mods parecem ser mais recentes ou não possuem uma versão direta para 1.12.2.
-
-- **Atlas Lib**
-- **Azure Lib**
-- **Better Village**
-- **Campsite Structures**
-- **Dayzombies Rebooted**
-- **Enhanced Celestials**
-- **Extra Zombie Drops**
-- **Horror Element Mod**
-- **libIPN**
-- **Library ferret**
-- **MixinExtras**
-- **TerraBlender**
-- **Timeless & Classics Guns: Zero (Tacz)**
-- **What's That Slot**
+- [**Balm:**](https://www.curseforge.com/minecraft/mc-mods/balm)
+- [**Biomes_O'Plenty:**](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- [**Bookshelf:**](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
+- [**Carrots_Lib:**](https://www.curseforge.com/minecraft/mc-mods/carrots-lib)
+- [**Carry_On:**](https://www.curseforge.com/minecraft/mc-mods/carry-on)
+- [**Cloth_Config_v4_API:**](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+- [**Collective:**](https://www.curseforge.com/minecraft/mc-mods/collective)
+- [**CoroUtil:**](https://www.curseforge.com/minecraft/mc-mods/coroutil)
+- [**CreativeCore:**](https://www.curseforge.com/minecraft/mc-mods/creativecore)
+- [**Dynamic_Trees:**](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
+- [**Enchantment_Descriptions_Java:**](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
+- [**Enhanced_Visuals:**](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals)
+- [**Forge(Loader):**](https://files.minecraftforge.net/net/minecraftforge/forge) _(Recomendo a versão "Recommended")_
+- [**GUI_Clock:**](https://www.curseforge.com/minecraft/mc-mods/gui-clock)
+- [**GUI_Compass:**](https://www.curseforge.com/minecraft/mc-mods/gui-compass)
+- [**Inventory_Profiles_Next:**](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)
+- [**Jade\_(Waila):**](https://www.curseforge.com/minecraft/mc-mods/hwyla)
+- [**Just_Enough_Items(JEI):**](https://www.curseforge.com/minecraft/mc-mods/jei)
+- [**Kotlin_For_Forge:**](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)
+- [**LostCities:**](https://www.curseforge.com/minecraft/mc-mods/the-lost-cities)
+- [**Mob_Sunscreen:**](https://www.curseforge.com/minecraft/mc-mods/mob-sunscreen)
+- [**OreExcavation:**](https://www.curseforge.com/minecraft/mc-mods/ore-excavation)
+- [**Philip's_Ruins:**](https://www.curseforge.com/minecraft/mc-mods/ruins)
+- [**Sophisticated_Backpacks:**](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+- [**Sophisticated_Core:**](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
+- [**Sound_Physics_Remastered:**](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
+- [**Spartan_Shields:**](https://www.curseforge.com/minecraft/mc-mods/spartan-shields)
+- [**Spartan_Weaponry:**](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry)
+- [**The_Hordes:**](https://www.curseforge.com/minecraft/mc-mods/the-hordes)
+- [**Waystones:**](https://www.curseforge.com/minecraft/mc-mods/waystones)
+- [**YUNG's_API:**](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
+- [**YUNG's_Better_Desert_Temples:**](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples)
+- [**YUNG's_Better_Dungeons:**](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+- [**YUNG's_Better_Mineshafts:**](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+- [**YUNG's_Better_Strongholds:**](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+- [**YUNG's_Bridges:**](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
+- [**YUNG's_Extras:**](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)
+- [**Zombie_Awareness:**](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness)
+- [**Atlas Lib**](https://www.curseforge.com/minecraft/mc-mods/atlas-lib)
+- [**Azure Lib**](https://www.curseforge.com/minecraft/mc-mods/azurelib)
+- [**Better Village**](https://www.curseforge.com/minecraft/mc-mods/better-village-forge)
+- [**Campsite Structures**](https://www.curseforge.com/minecraft/mc-mods/campsite-structures)
+- [**Dayzombies Rebooted**](https://www.curseforge.com/minecraft/mc-mods/day-zombies-rebooted)
+- [**DayZombies_1.12.2_Version**](https://www.curseforge.com/minecraft/mc-mods/day-zombies)
+- [**Enhanced Celestials**](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials)
+- [**Extra Zombie Drops**](https://www.curseforge.com/minecraft/mc-mods/extra-zombie-drops)
+- [**Horror Element Mod**](https://www.curseforge.com/minecraft/mc-mods/horror-elements-mod)
+- [**libIPN**](https://www.curseforge.com/minecraft/mc-mods/libipn)
+- [**Library ferret**](https://www.curseforge.com/minecraft/mc-mods/library-ferret-forge)
+- [**TerraBlender**](https://www.curseforge.com/minecraft/mc-mods/terrablender)
+- [**Timeless & Classics Guns: Zero (Tacz)**](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero)
+- [**What's That Slot**](https://www.curseforge.com/minecraft/mc-mods/whats-that-slot)
