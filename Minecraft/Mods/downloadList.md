@@ -98,6 +98,7 @@
 - [**The Hordes:**](https://www.curseforge.com/minecraft/mc-mods/the-hordes)
 - [**The Man From The Fog**](https://www.curseforge.com/minecraft/mc-mods/the-man-from-the-fog/files/all?page=1&pageSize=20)
 - [**Timeless & Classics Guns: Zero (Tacz)**](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero)
+- [**Tough As Nails**](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 - [**Traveler's Backpack**](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)
 - [**Waystones:**](https://www.curseforge.com/minecraft/mc-mods/waystones)
 - [**Waystones Compatibility**](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-world-map-waystones-compability)
