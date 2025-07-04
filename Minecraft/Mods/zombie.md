@@ -6,7 +6,7 @@ Esta lista contém links de download para os mods compatíveis com Minecraft 1.1
 
 - [**Additional_Structures:**](https://www.curseforge.com/minecraft/mc-mods/additionalstructures/files?version=1.12.2)
 - [**AppleSkin:**](https://www.curseforge.com/minecraft/mc-mods/apprmdir)
-- [**Armor_Underwear(Armor_Under):**]()
+- [**Armor_Underwear(Armor_Under):**](https://www.curseforge.com/minecraft/mc-mods/armor-underwear-mod)
 - [**BadMobs:**](https://www.curseforge.com/minecraft/mc-mods/bad-mobs)
 - [**Balm:**](https://www.curseforge.com/minecraft/mc-mods/balm/files?version=1.12.2)
 - [**Biomes_O'Plenty:**](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files?version=1.12.20)
