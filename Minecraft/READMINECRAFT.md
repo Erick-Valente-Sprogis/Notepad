@@ -5,10 +5,10 @@
 ## Sumário:
 
 - [**FOLDERS**](https://github.com/Erick-Valente-Sprogis/Notepad/tree/main/Minecraft/Mods)
-  - [**MAIN** Mods Download List](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/downloadList.md)
-    - [**1.12.2**]()
-    - [**1.18.2**]()
-    - [**1.19.2**]()
+  - [**MAIN** Mods Download List](https://github.com/Erick-Valente-Sprogis/Notepad/tree/main/Minecraft/Mods/DownloadList)
+    - [**1.12.2**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/DownloadList/1.12.2.md)
+    - [**1.18.2**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/DownloadList/1.18.2.md)
+    - [**1.19.2**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/DownloadList/1.19.2.md)
   - [**HORROR** Mods Download List](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/HORROR/horror.md)
     - [**Horror Mods**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/horror.md)
   - [**ZOMBIE** Mods Download List](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/ZOMBIE/zombie.md)
