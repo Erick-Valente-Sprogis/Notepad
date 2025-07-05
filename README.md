@@ -15,3 +15,7 @@
   - /TheSims
     - Codes.md
   - Readme.md
+
+#### TO-DO:
+
+- Finish Minecraft.
