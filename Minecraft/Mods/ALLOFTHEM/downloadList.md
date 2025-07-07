@@ -8,6 +8,12 @@
 - [**1.18.2**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/ALLOFTHEM/1.18.2.md)
 - [**1.19.2**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/ALLOFTHEM/1.19.2.md)
 
+- [**Zombies**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/ZOMBIE/zombie.md)
+- [**Horror**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/HORROR/horror.md)
+
+- [**Resource-Packs**](https://github.com/Erick-Valente-Sprogis/Notepad/tree/main/Minecraft/ResourcePacks)
+- [**Shaders**](https://github.com/Erick-Valente-Sprogis/Notepad/tree/main/Minecraft/Shaders)
+
 ## Mods para Minecraft 1.12.2
 
 - [**Additional Structures**](https://www.curseforge.com/minecraft/mc-mods/additional-structures/files/all?page=1&pageSize=20&version=1.12.2)
@@ -83,7 +89,6 @@
 - [**GUI Clock:**](https://www.curseforge.com/minecraft/mc-mods/gui-clock/files/all?page=1&pageSize=20&version=1.18.2)
 - [**GUI Compass:**](https://www.curseforge.com/minecraft/mc-mods/gui-compass/files/all?page=1&pageSize=20&version=1.18.2)
 - [**Horror Element Mod**](https://www.curseforge.com/minecraft/mc-mods/horror-elements-mod/files/all?page=1&pageSize=20&version=1.18.2)
-- [**Icons**](https://www.curseforge.com/minecraft/texture-packs/icon-xaeros/files/all?page=1&pageSize=20&version=1.18.2)
 - [**In Control**](https://www.curseforge.com/minecraft/mc-mods/in-control/files/all?page=1&pageSize=20&version=1.18.2)
 - [**Inventory Profiles Next:**](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next/files/all?page=1&pageSize=20&version=1.18.2)
 - [**Just Enough Items(JEI):**](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?page=1&pageSize=20&version=1.18.2)
@@ -153,7 +158,6 @@
 - [**GUI Clock:**](https://www.curseforge.com/minecraft/mc-mods/gui-clock/files/all?page=1&pageSize=20&version=1.19.2)
 - [**GUI Compass:**](https://www.curseforge.com/minecraft/mc-mods/gui-compass/files/all?page=1&pageSize=20&version=1.19.2)
 - [**Horror Element Mod**](https://www.curseforge.com/minecraft/mc-mods/horror-elements-mod/files/all?page=1&pageSize=20&version=1.19.2)
-- [**Icons**](https://www.curseforge.com/minecraft/texture-packs/icon-xaeros/files/all?page=1&pageSize=20&version=1.19.2)
 - [**In Control**](https://www.curseforge.com/minecraft/mc-mods/in-control/files/all?page=1&pageSize=20&version=1.19.2)
 - [**Inventory Profiles Next:**](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next/files/all?page=1&pageSize=20&version=1.19.2)
 - [**Just Enough Items(JEI):**](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?page=1&pageSize=20&version=1.19.2)
