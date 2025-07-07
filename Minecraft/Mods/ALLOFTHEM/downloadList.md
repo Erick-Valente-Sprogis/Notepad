@@ -4,9 +4,9 @@
 
 ## Sumário:
 
-- [**1.12.2**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/DownloadList/1.12.2.md)
-- [**1.18.2**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/DownloadList/1.18.2.md)
-- [**1.19.2**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/DownloadList/1.19.2.md)
+- [**1.12.2**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/ALLOFTHEM/1.12.2.md)
+- [**1.18.2**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/ALLOFTHEM/1.18.2.md)
+- [**1.19.2**](https://github.com/Erick-Valente-Sprogis/Notepad/blob/main/Minecraft/Mods/ALLOFTHEM/1.19.2.md)
 
 ## Mods para Minecraft 1.12.2
 
