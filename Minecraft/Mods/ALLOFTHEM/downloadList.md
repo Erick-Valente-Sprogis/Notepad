@@ -33,7 +33,7 @@
 - [**Dynamic Trees**](https://www.curseforge.com/minecraft/mc-mods/dynamictrees/files/all?page=1&pageSize=20&version=1.12.2)
 - [**Enchantment Descriptions Java**](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/files/all?page=1&pageSize=20&version=1.12.2)
 - [**Enhanced Visuals**](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals/files/all?page=1&pageSize=20&version=1.12.2)
-- [**Forge(Loader):**](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) _(Recomendo a versão "Recommended")_
+- [**Forge(Loader):**](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
 - [**GeckoLib**](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/all?page=1&pageSize=20&version=1.12.2)
 - [**GUI Clock**](https://www.curseforge.com/minecraft/mc-mods/gui-clock/files/all?page=1&pageSize=20&version=1.12.2)
 - [**GUI Compass**](https://www.curseforge.com/minecraft/mc-mods/gui-compass/files/all?page=1&pageSize=20&version=1.12.2)
