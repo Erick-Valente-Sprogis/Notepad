@@ -4,7 +4,7 @@
 
 #### Structure
 
-- /Notepad
+- Notepad
   - Minecraft
     - Mods
     - Resource-Packs
@@ -12,7 +12,7 @@
   - Replit-Flask (homeworks)
   - Replit-Python (homeworks)
   - Replit-py_primeiroPrograma (homeworks)
-  - /TheSims
+  - TheSims
     - Codes.md
   - Readme.md
 
